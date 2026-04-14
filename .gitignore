@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large data files
+*.csv
+*.dat
+*.h5
+
+# Environment
+.env
+*.log
